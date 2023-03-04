@@ -8,10 +8,6 @@ Created on Sat Mar  4 20:54:29 2023
 import pandas as pd
 import matplotlib.pyplot as plt
 
-def plot_pie_charts(): """
-plots two pie charts side-by-side showing the percentage of solar energy consumption for different countries
-"""
-
 countries = ['China', 'United States', 'Japan', 'Germany', 'India']
 values_2016 = [77.42, 40.28, 42.66, 41.32, 9.00]
 values_2020 = [253.00, 97.67, 62.61, 52.44, 44.81]
